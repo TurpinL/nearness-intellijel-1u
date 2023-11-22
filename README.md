@@ -13,9 +13,11 @@ This is an adaption of [sonocircuit's nearness module 1u adaptation](https://git
 
 ## Making your own
 
-WARNING: I haven't yet assembled one of these to test it, there may be errors in and or all components of this. Build at your own risk!
+[Digikey BOM](https://github.com/sarnesjo/nearness) **Note**: 3 pin header, 2x5 pin IDC Box header and jacks not included.
 
-WARNING: Watch out for the 3 pin header. It has to be soldered before the jacks, otherwise it's pads are inaccessible. You'll also want to trim its leads so they don't stick too far out the back of the PCB. It's best if the resulting solder mound is flat or recessed, otherwise it risks shorting out in the jack and/or the jack not sitting flat.
+**WARNING**: I haven't yet assembled one of these to test it, there may be errors in and or all components of this. Build at your own risk!
+
+**WARNING**: Watch out for the 3 pin header. It has to be soldered before the jacks, otherwise it's pads are inaccessible. You'll also want to trim its leads so they don't stick too far out the back of the PCB. It's best if the resulting solder mound is flat or recessed, otherwise it risks shorting out in the jack and/or the jack not sitting flat.
 
 ## Licence
 
