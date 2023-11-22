@@ -9,6 +9,7 @@ This is an adaption of [sonocircuit's nearness module 1u adaptation](https://git
 - The back PCB is now 22.5mm high to fit Intellijel's spec
 - Rearranged jacks, new faceplate
 - 14hp
+- Slightly adjusted resistor values based on availiability 
 
 ## Making your own
 

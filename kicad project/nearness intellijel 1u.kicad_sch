@@ -1617,7 +1617,7 @@
     (pin "2" (uuid 042acb8c-965f-46a5-82df-d40fb8fc87fa))
     (pin "3" (uuid a9beefc6-3fd8-4b1f-b76d-205288ecb1df))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J2") (unit 1)
         )
@@ -1644,7 +1644,7 @@
     (pin "2" (uuid 12843fdd-b3ee-4c3b-aed0-39fbbd1430fb))
     (pin "3" (uuid 97a0af13-56f0-4e84-affb-7cd2b68b9426))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J3") (unit 1)
         )
@@ -1671,7 +1671,7 @@
     (pin "2" (uuid d83065b0-dac6-489c-ba9b-7bdd384a185b))
     (pin "3" (uuid 6006b37a-d1e9-4ddb-977f-5720d9ab7fb9))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J4") (unit 1)
         )
@@ -1698,7 +1698,7 @@
     (pin "2" (uuid addb73e8-5822-4a83-8ae4-f0d3e58b494d))
     (pin "3" (uuid 24d7078d-98dd-48a6-a031-a37e6939a1a6))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J5") (unit 1)
         )
@@ -1725,7 +1725,7 @@
     (pin "2" (uuid 129a7960-6eb6-41d1-be8d-81b52b59adb5))
     (pin "3" (uuid 0b86732f-5e51-4c19-a1cb-b72bf5ae42f6))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J6") (unit 1)
         )
@@ -1752,7 +1752,7 @@
     (pin "2" (uuid 4482656f-d2b6-4ef1-991f-c63b3267268b))
     (pin "3" (uuid 01e19373-12da-4b0a-aff6-7b57022010d7))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J7") (unit 1)
         )
@@ -1779,7 +1779,7 @@
     (pin "2" (uuid 484eb563-2e45-4944-a44a-89e22d2e088f))
     (pin "3" (uuid 9b399e98-35d5-4420-869c-893eb6efa588))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J8") (unit 1)
         )
@@ -1804,7 +1804,7 @@
     )
     (pin "1" (uuid eca4db84-173e-449e-8076-69bb9c05e9a4))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR02") (unit 1)
         )
@@ -1829,7 +1829,7 @@
     )
     (pin "1" (uuid 8c334445-2356-40c4-8276-3e7adf69a3dd))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR03") (unit 1)
         )
@@ -1854,7 +1854,7 @@
     )
     (pin "1" (uuid e3003463-f0e7-4978-ae2a-851472ab331f))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR04") (unit 1)
         )
@@ -1879,7 +1879,7 @@
     )
     (pin "1" (uuid b46f89ad-0daa-4392-a648-e53fe5d9fb87))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR05") (unit 1)
         )
@@ -1904,7 +1904,7 @@
     )
     (pin "1" (uuid 1a679062-3c94-4339-bdea-c47846788a4a))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR06") (unit 1)
         )
@@ -1929,7 +1929,7 @@
     )
     (pin "1" (uuid 4e28b6ee-6c69-47d8-a84c-47e33cd98d2b))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR07") (unit 1)
         )
@@ -1954,7 +1954,7 @@
     )
     (pin "1" (uuid 9a64abfc-22b2-4fac-ac16-e6760434bf30))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR08") (unit 1)
         )
@@ -1980,7 +1980,7 @@
     (pin "1" (uuid 2b398ca1-e0b3-49c1-abc9-767246bb29ef))
     (pin "2" (uuid 964b1b6c-da8b-432a-a5e7-d53712aa76e1))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R1") (unit 1)
         )
@@ -1994,7 +1994,7 @@
     (property "Reference" "R2" (at 54.61 30.226 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1M67" (at 54.61 32.258 90)
+    (property "Value" "1M65" (at 54.61 32.258 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 34.036 90)
@@ -2006,7 +2006,7 @@
     (pin "1" (uuid b3475e90-f072-448f-b9dd-525cf3c4045c))
     (pin "2" (uuid 6dd77321-a1c1-4921-92d4-e79d558a71a6))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R2") (unit 1)
         )
@@ -2020,7 +2020,7 @@
     (property "Reference" "R3" (at 54.61 45.466 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "103k" (at 54.61 47.498 90)
+    (property "Value" "102k" (at 54.61 47.498 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 49.276 90)
@@ -2032,7 +2032,7 @@
     (pin "1" (uuid d575ba87-ceee-4e00-9b45-33a4c468f452))
     (pin "2" (uuid e84368ce-7039-419a-8bfb-c62e787c2f5c))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R3") (unit 1)
         )
@@ -2046,7 +2046,7 @@
     (property "Reference" "R4" (at 54.61 50.546 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "439k" (at 54.61 52.578 90)
+    (property "Value" "442k" (at 54.61 52.578 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 54.356 90)
@@ -2058,7 +2058,7 @@
     (pin "1" (uuid a73ad8da-1318-4c73-9e01-4e22f55222b1))
     (pin "2" (uuid 22d066a2-f0b6-4cc3-9617-d4e8848d9c10))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R4") (unit 1)
         )
@@ -2084,7 +2084,7 @@
     (pin "1" (uuid 8d2dd7f6-d85e-45a7-8977-28e7bc9c0a2e))
     (pin "2" (uuid 2093f2e5-e3a1-4fbf-8fcd-4636686d0d90))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R5") (unit 1)
         )
@@ -2110,7 +2110,7 @@
     (pin "1" (uuid 838c89d5-6a25-4c40-8a25-835a6cd6c50c))
     (pin "2" (uuid d5ea5fc6-9102-40fe-a321-4843972ac3df))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R6") (unit 1)
         )
@@ -2124,7 +2124,7 @@
     (property "Reference" "R7" (at 54.61 109.728 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "141k" (at 54.61 111.76 90)
+    (property "Value" "140k" (at 54.61 111.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 113.538 90)
@@ -2136,7 +2136,7 @@
     (pin "1" (uuid d4db778e-69af-4ca6-b209-99b256373ddc))
     (pin "2" (uuid f2bf76b8-c810-4f24-8883-5c7f28b61df6))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R7") (unit 1)
         )
@@ -2150,7 +2150,7 @@
     (property "Reference" "R8" (at 54.61 114.808 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "141k" (at 54.61 116.84 90)
+    (property "Value" "140k" (at 54.61 116.84 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 118.618 90)
@@ -2162,7 +2162,7 @@
     (pin "1" (uuid 356add3a-30e8-45af-b998-9676901f1831))
     (pin "2" (uuid 2070dc31-258d-450c-845f-d78ab84befc6))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R8") (unit 1)
         )
@@ -2188,7 +2188,7 @@
     (pin "1" (uuid 9eaad3c7-a73f-42ac-aa3a-c120a40ba9ff))
     (pin "2" (uuid 44a28bf2-dfc4-4965-a5aa-a3f31c00c5b2))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R9") (unit 1)
         )
@@ -2214,7 +2214,7 @@
     (pin "1" (uuid 6680d4e8-bfcb-47a0-8b43-63a7663dec5a))
     (pin "2" (uuid 0e2fdd8f-e3fb-413a-8139-d43c30a5b372))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R10") (unit 1)
         )
@@ -2228,7 +2228,7 @@
     (property "Reference" "R11" (at 54.61 151.892 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "439k" (at 54.61 153.924 90)
+    (property "Value" "442k" (at 54.61 153.924 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 155.702 90)
@@ -2240,7 +2240,7 @@
     (pin "1" (uuid 434b079a-e7ce-4cb4-a9a2-77a62bc0a4f0))
     (pin "2" (uuid 836d926b-ae9e-4b86-800e-3243960fd4c6))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R11") (unit 1)
         )
@@ -2254,7 +2254,7 @@
     (property "Reference" "R12" (at 54.61 156.972 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "103k" (at 54.61 159.004 90)
+    (property "Value" "102k" (at 54.61 159.004 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 160.782 90)
@@ -2266,7 +2266,7 @@
     (pin "1" (uuid 20938165-e772-49fb-89f9-42dd00ed71a6))
     (pin "2" (uuid 267656b3-d8b7-4351-ae69-88383a514205))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R12") (unit 1)
         )
@@ -2280,7 +2280,7 @@
     (property "Reference" "R13" (at 54.61 172.212 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1M67" (at 54.61 174.244 90)
+    (property "Value" "1M65" (at 54.61 174.244 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 176.022 90)
@@ -2292,7 +2292,7 @@
     (pin "1" (uuid 64623db7-a594-45ea-ba7b-323bd3aa843d))
     (pin "2" (uuid 23ebba78-0019-496a-a2c4-1c2cbb483d8a))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R13") (unit 1)
         )
@@ -2318,7 +2318,7 @@
     (pin "1" (uuid 765ab3e2-fa14-46b4-9644-f631958d30d2))
     (pin "2" (uuid 18dd5ea1-c91c-4bf9-a8f3-5171e6efbeb0))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R14") (unit 1)
         )
@@ -2344,7 +2344,7 @@
     (pin "1" (uuid 2ebb994f-9cb4-4d4c-9220-923fde202c2f))
     (pin "2" (uuid 23ad7783-9175-46ed-b991-2a0e3c5070c2))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R23") (unit 1)
         )
@@ -2370,7 +2370,7 @@
     (pin "1" (uuid b80db639-21d1-4ca0-bde8-e84412e127f3))
     (pin "2" (uuid 05193278-7ced-4732-8c9e-2894e9606968))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R24") (unit 1)
         )
@@ -2397,7 +2397,7 @@
     (pin "2" (uuid 6a11acf5-2003-4e24-9a07-5f7ed5448445))
     (pin "3" (uuid 319af88c-9928-44ba-a516-0137540afb60))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J1") (unit 1)
         )
@@ -2424,7 +2424,7 @@
     (pin "2" (uuid bf668c3f-0b33-449c-81ef-b971632fe019))
     (pin "3" (uuid 4752aa60-baf6-4e38-a364-67558595afe5))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J9") (unit 1)
         )
@@ -2450,7 +2450,7 @@
     (pin "1" (uuid 9d75a7b1-826c-4ac8-ac3f-904419d6f9f3))
     (pin "2" (uuid 6c26826d-4ce4-488a-a21f-933bcc95e1c9))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R15") (unit 1)
         )
@@ -2476,7 +2476,7 @@
     (pin "1" (uuid 1e2028dc-1d29-4736-bc89-33f9de479ad3))
     (pin "2" (uuid 35c46880-5bef-48f3-ad4c-244029d12080))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R19") (unit 1)
         )
@@ -2502,7 +2502,7 @@
     (pin "1" (uuid bd627e70-b7be-4353-b13e-f029a6780d6b))
     (pin "2" (uuid 72175b70-397a-4bdb-9029-4ab290408f6e))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R21") (unit 1)
         )
@@ -2527,7 +2527,7 @@
     )
     (pin "1" (uuid 245efd90-ed68-4a95-b01e-381504b107fd))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR014") (unit 1)
         )
@@ -2552,7 +2552,7 @@
     )
     (pin "1" (uuid 16181689-7a12-4d0a-affc-b86d3334077c))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR020") (unit 1)
         )
@@ -2578,7 +2578,7 @@
     (pin "1" (uuid 3908bacb-9e6f-40a4-ac8c-35cff72d516c))
     (pin "2" (uuid 98e6a4a4-42b2-484c-8266-082b9c1599ab))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R17") (unit 1)
         )
@@ -2604,7 +2604,7 @@
     (pin "1" (uuid b25b50d2-5b5f-4de9-8281-bfdf9a422d32))
     (pin "2" (uuid f8159a07-375d-438a-93a6-f14953ca37c7))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R20") (unit 1)
         )
@@ -2630,7 +2630,7 @@
     (pin "1" (uuid 243ef0e3-8311-4c21-8978-bba3a5312a57))
     (pin "2" (uuid 5248e1d7-313f-47ef-af1f-e2ac50c2aa30))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R22") (unit 1)
         )
@@ -2655,7 +2655,7 @@
     )
     (pin "1" (uuid eaefc821-ea09-437b-a2df-c6d227c2f435))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR015") (unit 1)
         )
@@ -2680,7 +2680,7 @@
     )
     (pin "1" (uuid 61b6b9be-ccb0-4075-8973-cf8dbf50a063))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR021") (unit 1)
         )
@@ -2694,7 +2694,7 @@
     (property "Reference" "D1" (at 107.188 165.862 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1N5819HW" (at 107.188 160.782 0)
+    (property "Value" "Schottky" (at 107.188 160.782 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering" (at 107.188 163.322 0)
@@ -2706,7 +2706,7 @@
     (pin "1" (uuid 3de4a448-9e6b-4886-9969-119a55236602))
     (pin "2" (uuid 65843460-847b-402e-bf86-308c0d4fa2be))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "D1") (unit 1)
         )
@@ -2720,7 +2720,7 @@
     (property "Reference" "D2" (at 107.188 186.182 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1N5819HW" (at 107.188 191.262 0)
+    (property "Value" "Schottky" (at 107.188 191.262 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering" (at 107.188 188.722 0)
@@ -2732,7 +2732,7 @@
     (pin "1" (uuid 85b931ac-6e78-4904-aebe-214374e10a45))
     (pin "2" (uuid d4409a36-160b-4dac-b58f-d9b04e6184f6))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "D2") (unit 1)
         )
@@ -2758,7 +2758,7 @@
     (pin "1" (uuid c4f0a0c0-cea9-4650-ad04-1325f731fe75))
     (pin "2" (uuid 9aa1db7e-2b72-4300-869e-5b4b843d398b))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "C5") (unit 1)
         )
@@ -2784,7 +2784,7 @@
     (pin "1" (uuid 98d294ad-37a7-4695-8e9a-685308950865))
     (pin "2" (uuid 0ce80603-7660-4629-a0ab-a83ea40bd3b1))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "C6") (unit 1)
         )
@@ -2809,7 +2809,7 @@
     )
     (pin "1" (uuid 81fa8f7e-53fa-4269-b86c-c1dce951689c))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR026") (unit 1)
         )
@@ -2834,7 +2834,7 @@
     )
     (pin "1" (uuid 3464f50e-626c-47a5-aef6-6a48912ea76a))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR028") (unit 1)
         )
@@ -2859,7 +2859,7 @@
     )
     (pin "1" (uuid 74b56b02-0a90-45c8-bd03-248c5edd12f0))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR027") (unit 1)
         )
@@ -2884,7 +2884,7 @@
     )
     (pin "1" (uuid 5c8743bf-847d-46a2-9a59-7928ef985224))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR01") (unit 1)
         )
@@ -2909,7 +2909,7 @@
     )
     (pin "1" (uuid c88db5ea-34c9-48f8-b436-7c1cf0532f12))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR09") (unit 1)
         )
@@ -2934,7 +2934,7 @@
     )
     (pin "1" (uuid 26ffd5f7-3cd6-4974-ae8b-c1a6556ef679))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR016") (unit 1)
         )
@@ -2959,7 +2959,7 @@
     )
     (pin "1" (uuid 507252e1-da5a-4d98-a509-229e38f7ff79))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR022") (unit 1)
         )
@@ -2984,7 +2984,7 @@
     )
     (pin "1" (uuid 918b9bae-4680-4d05-9e4f-e3d172aa1c59))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR017") (unit 1)
         )
@@ -3009,7 +3009,7 @@
     )
     (pin "1" (uuid 0a45dbf4-a8f5-4efc-b0e1-35dc08e52bca))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR023") (unit 1)
         )
@@ -3034,7 +3034,7 @@
     )
     (pin "1" (uuid 62486664-0fbc-4f50-b017-7a7955d52993))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR018") (unit 1)
         )
@@ -3059,7 +3059,7 @@
     )
     (pin "1" (uuid 7e638099-d60c-48fd-9fa2-b35238c1374e))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR024") (unit 1)
         )
@@ -3084,7 +3084,7 @@
     )
     (pin "1" (uuid d8238193-d4fd-40fc-b870-a724eab9a6c8))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR019") (unit 1)
         )
@@ -3109,7 +3109,7 @@
     )
     (pin "1" (uuid 49c5b9b6-0df7-4ba0-b4b1-596d8d4d76ef))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR025") (unit 1)
         )
@@ -3135,7 +3135,7 @@
     (pin "1" (uuid 676716d3-eab2-40ff-820e-27e5fb953df4))
     (pin "2" (uuid 0439e683-7b0d-4a65-b988-2d2d6d9779b8))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "C1") (unit 1)
         )
@@ -3161,7 +3161,7 @@
     (pin "1" (uuid 422d0218-d353-4964-95d0-53bfceb05299))
     (pin "2" (uuid f95e7c16-7e07-454b-b882-4c05ed741b0c))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "C2") (unit 1)
         )
@@ -3193,7 +3193,7 @@
     (pin "6" (uuid d56a3b0d-22cc-4347-a5f2-4d7466bb8921))
     (pin "7" (uuid da2f5cd5-f946-4e11-92eb-10227acc5e52))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "U1") (unit 1)
         )
@@ -3225,7 +3225,7 @@
     (pin "6" (uuid 7856e4c2-9278-4fdd-ae25-1f43ec41e649))
     (pin "7" (uuid 650feea0-6cfc-43f4-81d1-cb77a96c347e))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "U1") (unit 2)
         )
@@ -3257,7 +3257,7 @@
     (pin "6" (uuid 2914eb35-7b43-4f79-9c13-daa3f9e80c49))
     (pin "7" (uuid ea451582-27a4-4090-bf5e-96ffa6a60a1d))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "U2") (unit 1)
         )
@@ -3289,7 +3289,7 @@
     (pin "6" (uuid 43729d0c-0637-46c4-813c-8157a65687f4))
     (pin "7" (uuid 329864d4-327f-46da-b0bf-e28270665af6))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "U2") (unit 2)
         )
@@ -3315,7 +3315,7 @@
     (pin "1" (uuid 116b648e-89b0-40cf-853d-fbe4ca469b32))
     (pin "2" (uuid 42c9d47c-3b4c-48d6-b488-1df6bbfabe4e))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "C7") (unit 1)
         )
@@ -3341,7 +3341,7 @@
     (pin "1" (uuid caa7d2b8-18eb-44ad-aaa1-dbd2559311a8))
     (pin "2" (uuid d3a88b30-497e-49fd-bf41-4002a84d3e75))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "C8") (unit 1)
         )
@@ -3368,7 +3368,7 @@
     (pin "2" (uuid 6b6cfd83-4076-4ad8-ac8d-7186774e871e))
     (pin "3" (uuid 9c5aa908-2ccb-4046-8bbb-ef2246be0c37))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "P7") (unit 1)
         )
@@ -3393,7 +3393,7 @@
     )
     (pin "1" (uuid d50d2d77-037c-4d73-8861-19d7ffe942e3))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR010") (unit 1)
         )
@@ -3420,7 +3420,7 @@
     (pin "2" (uuid de5a940a-8f8a-4bf7-82f4-24a8e237432c))
     (pin "3" (uuid 4e275df5-24d2-4a21-b36c-efa572140c45))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "P1") (unit 1)
         )
@@ -3434,7 +3434,7 @@
     (property "Reference" "R25" (at 54.61 88.392 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "141k" (at 54.61 90.424 90)
+    (property "Value" "140k" (at 54.61 90.424 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 92.202 90)
@@ -3446,7 +3446,7 @@
     (pin "1" (uuid 5ef10f29-a7ab-4dd1-8a2a-612eaad706d3))
     (pin "2" (uuid a06d3bb0-b273-4641-9ef9-a87b65aef4dc))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R25") (unit 1)
         )
@@ -3473,7 +3473,7 @@
     (pin "2" (uuid 8d93311b-6e8e-4430-b949-af10277aced9))
     (pin "3" (uuid 7b617315-1664-4af5-ba46-b0885c4d7923))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "J10") (unit 1)
         )
@@ -3487,7 +3487,7 @@
     (property "Reference" "R26" (at 54.61 93.472 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "141k" (at 54.61 95.504 90)
+    (property "Value" "140k" (at 54.61 95.504 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" (at 54.61 97.282 90)
@@ -3499,7 +3499,7 @@
     (pin "1" (uuid bfd7e9f4-c44d-4c1c-835d-f4b711cd110e))
     (pin "2" (uuid 84ff2134-ca90-4eac-8dd4-5a6e2afec03a))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "R26") (unit 1)
         )
@@ -3525,7 +3525,7 @@
     (pin "1" (uuid 3886e604-2553-4e3a-a3c3-c17d70e3a7cf))
     (pin "2" (uuid 0784907f-082f-4bd3-ba2e-3c1b99c25c2a))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "C4") (unit 1)
         )
@@ -3551,7 +3551,7 @@
     (pin "1" (uuid 7fe6f7a5-ebe9-4ae6-a130-8d90aa01b2c6))
     (pin "2" (uuid bbcbc807-8519-4380-939f-91e1ef6b3d9c))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "C3") (unit 1)
         )
@@ -3576,7 +3576,7 @@
     )
     (pin "1" (uuid 5eca5755-7bae-40c6-9ee6-d62f9ea1cccd))
     (instances
-      (project "nearness"
+      (project "nearness intellijel 1u"
         (path "/fc36f807-a6b4-4c5d-a8a5-86b65f234242"
           (reference "#PWR011") (unit 1)
         )
