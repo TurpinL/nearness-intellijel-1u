@@ -1,6 +1,6 @@
 # Nearness-Intellijel 1U
 
-![Nearness Intellijel 1u](pictures/PCB and front plate.jpg)
+![Nearness Intellijel 1u](https://github.com/TurpinL/nearness-intellijel-1u/blob/main/pictures/PCB%20and%20front%20plate.png)
 
 This is an adaption of [sonocircuit's nearness module 1u adaptation](https://github.com/sonocircuit/Nearness-1U) (Which itself is an 1u adaptation of [sarnesjo's nearness module](https://github.com/sarnesjo/nearness)) now in 1U Intellijel format. 
 
