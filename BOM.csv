@@ -1,0 +1,17 @@
+#,Reference,Qty,Value,Footprint,Source
+1,"C1, C2",2,22p,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,https://www.digikey.com.au/en/products/detail/w%C3%BCrth-elektronik/885012008039/5453738
+2,"C3, C4",2,22u,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,https://www.digikey.com.au/en/products/detail/panasonic-electronic-components/ECE-A1EKA220/6921
+3,"C5, C6, C7, C8",4,100n,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,https://www.digikey.com.au/en/products/detail/kemet/C1206C104K5RAC7210/3317012
+4,"D1, D2",2,Schottky,Diode_SMD:D_SOD-323_HandSoldering,https://www.digikey.com.au/en/products/detail/toshiba-semiconductor-and-storage/CUS10S40-H3F/5114300
+5,"J1, J2, J3, J4, J5, J6, J7, J8, J9, J10",10,PJ398SM,nearness: PJ398SM,https://www.thonk.co.uk/shop/thonkiconn/
+6,P1,1,CONN_01X03,nearness:Pin_1x3,
+7,P7,1,CONN_01X03,Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical,
+8,"R1, R14, R15, R17, R19, R20, R21, R22",8,100k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.digikey.com.au/en/products/detail/stackpole-electronics-inc/RMCF1206FT100K/1759689
+9,"R2, R13",2,1M65,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.digikey.com.au/en/products/detail/vishay-dale/CRCW12061M65FKEA/1177009
+10,"R3, R12",2,102k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.digikey.com.au/en/products/detail/stackpole-electronics-inc/RMCF1206FT102K/1759691
+11,"R4, R11",2,442k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.digikey.com.au/en/products/detail/yageo/RC1206FR-07442KL/728921
+12,"R5, R10",2,113k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.digikey.com.au/en/products/detail/vishay-dale/CRCW1206113KFKEA/1176877
+13,"R6, R9",2,215k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.digikey.com.au/en/products/detail/yageo/RC1206FR-07215KL/728686
+14,"R7, R8, R25, R26",4,140k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.digikey.com.au/en/products/detail/yageo/RC1206FR-07140KL/728550
+15,"R23, R24",2,1k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,https://www.digikey.com.au/en/products/detail/stackpole-electronics-inc/RMCF1206FT1K00/1759616
+16,"U1, U2",2,TL072,nearness:SOIC-8,https://www.digikey.com.au/en/products/detail/texas-instruments/TL072HIDR/15205173
