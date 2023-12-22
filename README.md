@@ -13,7 +13,7 @@ This is an adaption of [sonocircuit's nearness module 1u adaptation](https://git
 
 ## Making your own
 
-[Digikey BOM](https://github.com/sarnesjo/nearness) **Note**: 3 pin header, 2x5 pin IDC Box header and jacks not included.
+[Digikey BOM](https://www.digikey.com.au/en/mylists/list/PDI5ANLO88) **Note**: 3 pin header, 2x5 pin IDC Box header and jacks not included.
 
 **WARNING**: I haven't yet assembled one of these to test it, there may be errors in and or all components of this. Build at your own risk!
 
