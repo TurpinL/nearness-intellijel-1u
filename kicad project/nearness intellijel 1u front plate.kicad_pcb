@@ -79,7 +79,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp d567c145-7ff5-4f03-9828-596e184d76b4)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp 1f99bb14-d6a3-4599-8bf0-25c25c7530b8))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp 1f99bb14-d6a3-4599-8bf0-25c25c7530b8))
   )
 
   (footprint "" (layer "F.Cu")
@@ -93,7 +93,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp d3cdc3c9-1b72-4c7c-91d7-00d78236e0d7)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp 998257a3-6e32-438f-b89a-391375c9b5b5))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp 998257a3-6e32-438f-b89a-391375c9b5b5))
   )
 
   (footprint "" (layer "F.Cu")
@@ -107,7 +107,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp b5f99e79-f62b-475a-9b81-c125486aa0d4)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp ac724a45-7c02-4054-9707-0d5a7babd35e))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp ac724a45-7c02-4054-9707-0d5a7babd35e))
   )
 
   (footprint "" (layer "F.Cu")
@@ -121,7 +121,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp a483a79c-6372-42ef-a3e6-8ab869da2cb4)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp 087bbe87-663f-4bf9-931a-1b4d9805a88f))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp 087bbe87-663f-4bf9-931a-1b4d9805a88f))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -2751,7 +2751,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 976f2cfb-7ff7-440e-99a9-3ee6678d2cb1)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp 56896122-47bf-4005-aba9-bdfc4868aeef))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp 56896122-47bf-4005-aba9-bdfc4868aeef))
   )
 
   (footprint "" (layer "F.Cu")
@@ -2765,7 +2765,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 9a4fb446-391a-44d5-9bc8-463d97de55db)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp a8fba6e9-aaba-4d6c-9aff-c27344606b1e))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp a8fba6e9-aaba-4d6c-9aff-c27344606b1e))
   )
 
   (footprint "PCM_4ms_Faceplate:Faceplate_Rail_Mount_Slot_Plated" (layer "F.Cu")
@@ -2798,7 +2798,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 1253b432-86b0-4103-9807-e77aa673a2fd)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp 1e57be0b-bdba-4fa1-bd81-7dc418427e03))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp 1e57be0b-bdba-4fa1-bd81-7dc418427e03))
   )
 
   (footprint "" (layer "F.Cu")
@@ -2812,7 +2812,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp adf11250-3e8a-4dd3-8d3b-1864760b92af)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp d4748e51-7f6d-41f4-90ec-4b3ba925fece))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp d4748e51-7f6d-41f4-90ec-4b3ba925fece))
   )
 
   (footprint "LOGO" (layer "F.Cu")
@@ -4475,7 +4475,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 5574100f-d093-4d9a-833e-707fbe9c1162)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp f8435cf7-9ee4-4f1c-b264-e011bfbc3bb0))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp f8435cf7-9ee4-4f1c-b264-e011bfbc3bb0))
   )
 
   (footprint "" (layer "F.Cu")
@@ -4489,7 +4489,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 9cec805a-ed4a-428d-9db3-6d2ffe7d1c1e)
     )
-    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6.604) (layers "*.Cu" "*.Mask") (tstamp 82417860-8f71-4314-a0ac-d5144b43fe14))
+    (pad "1" thru_hole circle (at 0 0) (size 7.62 7.62) (drill 6) (layers "*.Cu" "*.Mask") (tstamp 82417860-8f71-4314-a0ac-d5144b43fe14))
   )
 
   (footprint "PCM_4ms_Faceplate:Faceplate_Rail_Mount_Slot_Plated" (layer "F.Cu")
